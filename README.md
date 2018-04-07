@@ -2,7 +2,7 @@
 cms base on Laravel and Vue
 	in progress ...
 
-Install:
+###Install:
 
 1.
 ```bash
@@ -19,7 +19,9 @@ Install:
 #cp .env.example .env
 ```
 
-in file chenge:
+in file .env chenge:
+
+
 set 
 APP_URL=http://cmsrs-laravel-vue
 
