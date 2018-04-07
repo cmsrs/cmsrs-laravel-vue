@@ -5,22 +5,29 @@ cms base on Laravel and Vue
 Install:
 
 1.
-git clone https://github.com/cmsrs/cmsrs-laravel-vue.git
+```bash
+#git clone https://github.com/cmsrs/cmsrs-laravel-vue.git
+```
 
 2.
-composer install
+```bash
+#composer install
+```
 
 3.
-cp .env.example .env
+```bash
+#cp .env.example .env
+```
 
+in file chenge:
 set 
 APP_URL=http://cmsrs-laravel-vue
-
 
 set
 DB_*
 
 4.
-php artisan key:generate
-
+```bash
+#php artisan key:generate
+```
 
