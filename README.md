@@ -6,17 +6,17 @@ cms base on Laravel and Vue
 
 1.
 ```bash
-#git clone https://github.com/cmsrs/cmsrs-laravel-vue.git
+$git clone https://github.com/cmsrs/cmsrs-laravel-vue.git
 ```
 
 2.
 ```bash
-#composer install
+$cd cmsrs-laravel-vue && composer install
 ```
 
 3.
 ```bash
-#cp .env.example .env
+$cp .env.example .env
 ```
 
 in file .env chenge:
@@ -30,6 +30,6 @@ DB_*
 
 4.
 ```bash
-#php artisan key:generate
+$php artisan key:generate
 ```
 
