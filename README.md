@@ -53,3 +53,17 @@ add vhost (in apache):
         </VirtualHost>
 ```
 
+
+
+
+
+
+Usefull scripts:
+
+1.
+change permission:
+go.sh 
+
+2.
+show log:
+go_log_err.sh 
